@@ -35,12 +35,19 @@ BossFrame.Bosses = {
     --Gnomeregan – 24-34
     'Viscous Fallout', 'Grubbis', 'Crowd Pummeler 9-60', 'Electrocutioner 6000', 'Dark Iron Ambassador', 'Mekgineer Thermaplugg',
 
+    --Dragonmaw Retreat
+    'Gowlfang', 'Cavenweb Broodmother', 'Web Master Torkon', 'Garlok Flamekeeper', 'Halgan Redbrand', 'Elder Hollowblood', 'Searistrasz', 'Zuluhed the Whacked'
+
     --Razorfen Kraul – 30-40
 
     'Aggem Thorncurse', 'Agathelos the Raging', 'Charlga Razorflank', 'Roogug', 'Death Speaker Jargba', 'Overlord Ramtusk',
     'Blind Hunter', 'Earthcaller Halmgar',
 
     --Scarlet Monastery – 26-45
+
+    --Stormwroght Ruins
+    'Oronok Torn-Heart', 'Dagar the Glutton', 'Duke Balor the IV', 'Librarian Theodorus', 'Chieftain Stormsong', 'Deathlord Tidebane', 'Subjugator Halthas Shadecrest', 'Mycellakos', 
+    'Eldermaw the Primordial', 'Lady Drazare', 'Remains of the Innocent', 'Mergothid'
 
     'Herod',
     'Interrogator Vishas', 'Bloodmage Thalnos', 'Azshir the Sleepless', 'Fallen Champion', 'Ironspire',
@@ -61,11 +68,17 @@ BossFrame.Bosses = {
     'Nekrum Gutchewer', 'Shadowpriest Sezz\'ziz', 'Dustwraith',
     'Gahz\'rilla', 'Chief Ukorz Sandscalp',
 
+    -- Gilneas City - 42-50
+    'Matthias Holtz', 'Packmaster Ragetooth', 'Judge Sutherland', 'Dustivan Blackcowl', 'Marshal Magnus Greystone', 'Horsemaster Levvin', 'Harlow Family Crest', 'Genn Greymane',
+
     --Maraudon – 46-55
     'Tinkerer Gizlock', 'Lord Vyletongue',
     'Noxxion', 'Razorlash',
     'Landslide', 'Rotgrip', 'Princess Theradras',
     'Celebras the Cursed', 'Meshlok the Harvester',
+
+    --Hateforge Quarry 50-60
+    'High Foreman Bargul Blackhammer', 'Engineer Figgles', 'Corrosis', 'Hatereaver Annihilator', 'Har\'gesh Doomcaller',
 
     --Temple of Atal’Hakkar – 55-60
     'Hazzas', 'Morphaz', 'Jammal\'an the Prophet',
@@ -120,7 +133,7 @@ BossFrame.Bosses = {
 
     --Molten Core
     'Lucifron', 'Magmadar', 'Gehennas', 'Garr', 'Baron Geddon', 'Shazzrah', 'Golemagg the Incinerator',
-    'Sulfuron Harbinger', 'Majordomo Executus', 'Ragnaros',
+    'Sulfuron Harbinger', 'Majordomo Executus', 'Ragnaros', 'Incindis', 'Basalthar', 'Smoldaris', 'Sourcerer-Thane Thurissan'
 
     --Blackwing Lair
     'Razorgore the Untamed', 'Vaelastrasz the Corrupt', 'Broodlord Lashlayer', 'Flamegor', 'Ebonroc',
